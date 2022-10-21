@@ -1,0 +1,1 @@
+1. The bug was that both num1 and num2 are of type String and therefore the output is calculated through string concatenation instead of mathematical calculation. 
